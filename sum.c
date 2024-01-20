@@ -2,7 +2,7 @@
 void main()
 {
  int a,b,c;
- a=1;
+ a=12;
  b=2;
  c=a+b;
  printf("the sum = %d",c);
