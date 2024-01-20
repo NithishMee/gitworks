@@ -6,4 +6,5 @@ void main()
  b=2;
  c=a+b;
  printf("the sum = %d",c);
+ printf("the addition = %d",c);
 }
